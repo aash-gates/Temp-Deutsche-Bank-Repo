@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'NuberNext-BoldWide';
+   font-display: swap;
+   src: url('NuberNext-BoldWide/font.ttf');
+}
+@font-face {
+   font-family: 'NuberNext-BoldExtendedItalic';
+   font-display: swap;
+   src: url('NuberNext-BoldExtendedItalic/font.ttf');
+}
